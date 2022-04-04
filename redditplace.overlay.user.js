@@ -3,9 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.4
 // @description  An overlay to counter the french
-// @author       Adcoss95
+// @author       Loadren
 // @match        https://hot-potato.reddit.com/embed*
-// @icon         https://styles.redditmedia.com/t5_4eiiz1/styles/communityIcon_ojy24r8j90o81.jpg
 // @grant        none
 // ==/UserScript==
 if (window.top !== window.self) {
